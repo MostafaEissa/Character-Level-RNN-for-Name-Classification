@@ -1,0 +1,8 @@
+# specific directories
+.ipynb_checkpoints/
+data
+__pycache__/
+
+# Zip files
+*.zip
+*.gz
